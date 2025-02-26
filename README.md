@@ -1,16 +1,22 @@
-# event_pulse
+# EventPulse  
 
-A new Flutter project.
+EventPulse is a Flutter-based event reminder app designed to help users stay updated with upcoming events in their college.  
 
-## Getting Started
+## 📸 Screenshots  
+![Home Screen](screenshots/home_screen.png)  
+![Navigation Drawer](screenshots/drawer.png)  
 
-This project is a starting point for a Flutter application.
+## ✨ Features  
+- 📅 View and manage **My Events**  
+- 🔔 Get event **Notifications**  
+- ⭐ Mark events as **Favorites**  
+- 📌 Explore **Upcoming Events**  
+- 🔎 **Search** for specific events  
+- 📝 Submit ideas in the **Idea Box**  
+- 📢 Register for events through **Registration**  
+- 🗣 Provide feedback in the **Feedback** section  
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Installation  
+1. Clone this repository:  
+   ```sh
+   git clone https://github.com/Soujanya30-dev/CollegeEvent.git
